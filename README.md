@@ -31,6 +31,9 @@
 
 ---
 
+## Muestra Visual
+- **Grabación de Pantalla:** [Video](https://github.com/Marlonemendoza/Adivina-El-Numero/tree/main/MuestraVisual)
+
 ## 📂 Estructura del Código
 
 ```text
